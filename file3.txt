@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this file is created by feat/demo.
+=======
+this file is created by feat/demo.
+New line added by feat/demo3.
+>>>>>>> feat/demo3
